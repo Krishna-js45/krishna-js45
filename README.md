@@ -1,4 +1,6 @@
 <h2 align="left">Hello Folks!!</h2>
+![Profile Views](https://countapi.xyz/hit/github/krishna-js45/views?counter)
+
 
 ###
 
