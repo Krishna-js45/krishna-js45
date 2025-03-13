@@ -3,6 +3,7 @@
 <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" /> </p></h2>
 
 ###
+<h2>Streaks </h2>
 ![](https://nirzak-streak-stats.vercel.app/?user=krishna-js45&theme=dark&hide_border=false)<br/>
 
 ###
@@ -95,10 +96,13 @@
 ###
 ![Krishna-js45's Stats](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 ###
+<h2>My Achievements</h2>
 ![](https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ####
+<h2>Total Contribution</h2>
 ![](https://github-contributor-stats.vercel.app/api?username=krishna-js45&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ###
+<h2>My Top Languages</h2>
 ![Krishna-js45's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
