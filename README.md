@@ -2,9 +2,6 @@
 
 <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" /> </p></h2>
 ###
-
-![Krishna-js45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishna-js45&theme=vue-dark&hide_border=true)
-###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ###
 <div align="left">
@@ -76,6 +73,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
+###
+![](https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=dark&hide_border=false)<br/>
 ###
   <a href="rajkrishna1445@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
