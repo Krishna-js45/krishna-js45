@@ -3,7 +3,7 @@
 <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" /> </p></h2>
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-js45&" alt="krishna-js45" /></p>
+![Krishna-js45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishna-js45&theme=vue-dark&hide_border=true)
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ###
