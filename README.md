@@ -3,8 +3,7 @@
 <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" /> </p></h2>
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-###
-![Krishna-js45's Stats](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+
 
 ###
 <div align="left">
@@ -99,5 +98,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=dark&hide_border=false)<br/>
 ###
 
-
+![Krishna-js45's Stats](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+###
 
