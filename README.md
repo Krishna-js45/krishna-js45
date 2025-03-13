@@ -1,17 +1,11 @@
 <h2 align="left">Hello Folks!!</h2>
 
 <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" /> </p></h2>
-
 ###
-<h2>Streaks </h2>
 ![](https://nirzak-streak-stats.vercel.app/?user=krishna-js45&theme=dark&hide_border=false)<br/>
-
 ###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -81,10 +75,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
-
 ###
-
-
   <a href="rajkrishna1445@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -96,13 +87,10 @@
 ###
 ![Krishna-js45's Stats](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 ###
-<h2>My Achievements</h2>
 ![](https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ####
-<h2>Total Contribution</h2>
 ![](https://github-contributor-stats.vercel.app/api?username=krishna-js45&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ###
-<h2>My Top Languages</h2>
 ![Krishna-js45's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
