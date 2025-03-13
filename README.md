@@ -4,6 +4,9 @@
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ###
+![Krishna-js45's Stats](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -74,8 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
 ###
-![](https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=dark&hide_border=false)<br/>
-###
+
   <a href="rajkrishna1445@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -93,7 +95,8 @@
 ![Krishna-js45's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ###
 
-![Krishna-js45's Stats](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=dark&hide_border=false)<br/>
 ###
 
 
