@@ -75,7 +75,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
-###
 
   <a href="rajkrishna1445@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -85,8 +84,8 @@
   </a>
 </div>
 
-###
 
+###
 ![](https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ####
 ![](https://github-contributor-stats.vercel.app/api?username=krishna-js45&limit=5&theme=dark&combine_all_yearly_contributions=true)
