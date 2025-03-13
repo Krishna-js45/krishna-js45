@@ -94,7 +94,8 @@
 
 ###
 ![Krishna-js45's Stats](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-
+###
+![](https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ####
 ![](https://github-contributor-stats.vercel.app/api?username=krishna-js45&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ###
