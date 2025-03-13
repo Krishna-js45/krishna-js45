@@ -2,7 +2,8 @@
 
 <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" /> </p></h2>
 ###
-![](https://nirzak-streak-stats.vercel.app/?user=krishna-js45&theme=dark&hide_border=false)<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-js45&" alt="krishna-js45" /></p>
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ###
