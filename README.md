@@ -2,7 +2,7 @@
 
 <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" /> </p></h2>
 ###
-<img src="https://media.giphy.com/media/nbeJuE1wy3zXHAniXh/giphy.gif?cid=ecf05e47dkw2hgmqxupbj3gb3hcbbhx199sqhqxhsvkg1xn5&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+<img align="right" src="https://media.giphy.com/media/nbeJuE1wy3zXHAniXh/giphy.gif?cid=ecf05e47dkw2hgmqxupbj3gb3hcbbhx199sqhqxhsvkg1xn5&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
 
 ###
