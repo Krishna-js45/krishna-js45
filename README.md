@@ -2,7 +2,8 @@
 
 <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" /> </p></h2>
 ###
-<img src="https://chat.openai.com/_next/image?url=/api/assets/file_000000003fb861f692acf17694a6d174/image.png&w=384&q=75" width="300" />
+<img src="![Hi from Chibi Boy](https://chat.openai.com/_next/image?url=/api/assets/file_000000003fb861f692acf17694a6d174/image.png&w=384&q=75)
+" width="300" />
 
 
 
