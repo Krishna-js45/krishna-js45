@@ -2,8 +2,7 @@
 
 <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" /> </p></h2>
 ###
-<img src="![Hi from Chibi Boy](https://chat.openai.com/_next/image?url=/api/assets/file_000000003fb861f692acf17694a6d174/image.png&w=384&q=75)
-" width="300" />
+<div class="tenor-gif-embed" data-postid="9607410651681348522" data-share-method="host" data-aspect-ratio="1.13287" data-width="100%"><a href="https://tenor.com/view/anime-wave-hello-chibi-greetings-gif-9607410651681348522">Anime Wave Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
