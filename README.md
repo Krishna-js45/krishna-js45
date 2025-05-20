@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rajkrishna;Web+Developer+%7C+AI+Explorer;Building+ReCircuit+♻️&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22" />
 </p>
 
-<h1 align="center">🌟 Rajkrishna</h1>
+<h1 align="center">🌟 Hi Rajkrishna</h1>
 
 ---
 
