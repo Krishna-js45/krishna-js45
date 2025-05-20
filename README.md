@@ -117,9 +117,6 @@
 
 ---
 
-### 🛠 Featured Project – ReCircuit ♻️
-
-> A smart, community-powered e-waste recycling and project-sharing platform.
 
 <div align="center">
 
