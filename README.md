@@ -31,10 +31,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-js45&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Krishna-js45&theme=radical&hide_border=true" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-js45&layout=compact&theme=radical&hide_border=true" />
 </p>
-
+<img src="https://streak-stats.demolab.com?user=Krishna-js45&theme=radical&hide_border=true" />
 ---
 
 ### 🛠 Featured Project – ReCircuit ♻️
