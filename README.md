@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76111rnhef6sar3stvwkgwbjolh1kt2llbb2hkefq8xh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="185"/>
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -84,36 +84,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
-</div>
+</div><br>
 
 <div align="center">
   <a href="mailto:rajkrishna1445@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  </a><br>
   <a href="https://www.linkedin.com/in/raj-krishna-51b9142a3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=krishna-js45&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=dark&hide_border=false" alt="Streak Stats" />
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
-</div>
+</div><br>
 
 ---
 
@@ -125,4 +125,5 @@
   <a href="https://github.com/Krishna-js45/ReCircuit">
     <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWes/giphy.gif" width="300px" />
   </a>
-</div>
+</div><br>
+---
