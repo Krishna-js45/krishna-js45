@@ -13,7 +13,7 @@
 </h2>
 
 <div align="center">
-  <img align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76111rnhef6sar3stvwkgwbjolh1kt2llbb2hkefq8xh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="185"/>
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76111rnhef6sar3stvwkgwbjolh1kt2llbb2hkefq8xh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="185"/>
 </div>
 
 <div align="center">
@@ -94,8 +94,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
