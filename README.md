@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rajkrishna;Research+Developer+%7C+AI+Explorer;&center=true&width=500&height=45&color=FF0000&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rajkrishna;R&D+Developer+%7C+AI+Explorer;&center=true&width=500&height=45&color=FF0000&vCenter=true&size=22" />
 </p>
 
 
-<h1 align="center">🌟 Hi I'm Rajkrishna</h1>
+<h1 align="center">🌟 Hello Folks</h1>
 
----
 
-<h2 align="center">Hello Folks!!</h2>
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" />
