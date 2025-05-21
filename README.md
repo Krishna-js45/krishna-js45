@@ -7,9 +7,9 @@
 
 
 
-<h2 align="center">
+<h2 align="center"><br>
   <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" />
-</h2>
+</h2><br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76111rnhef6sar3stvwkgwbjolh1kt2llbb2hkefq8xh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="185"/>
