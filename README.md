@@ -127,7 +127,14 @@
 </pre>
 
 </div>
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
 
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/Krishna-js45/Krishna-js45/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
   
 
 
