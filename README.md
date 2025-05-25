@@ -7,7 +7,7 @@
     <a href="https://github.com/vikram-singh9"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
     <a href="https://github.com/vikram-singh9/PORTFOLIO"><img src="https://img.shields.io/github/stars/vikram-singh9/BEPb.svg?logo=github"></a>
     <a href="https://github.com/vikram-singh9"><img src="https://img.shields.io/github/forks/vikram-singh9/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vikram-singh9.vikram-singh9" alt="visitors"/>   
+    
 </p>
 
 <!--   my-header-img -->
