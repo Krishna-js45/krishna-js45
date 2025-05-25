@@ -115,21 +115,29 @@
   <img src="https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div><br>
 
+<!-- GitHub Contributor Stats -->
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=krishna-js45&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</div><br>
+</div>
+<br/>
 
+<!-- Top Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div><br>
+</div>
+<br/>
 
+<!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=dark&hide_border=false" alt="Streak Stats" />
-</div><br>
+</div>
+<br/>
 
+<!-- GitHub Overall Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
-</div><br>
+</div>
+
 
 ---
 
