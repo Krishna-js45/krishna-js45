@@ -129,8 +129,11 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=krishna-js45&theme=dark&hide_border=false)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-js45&theme=dark&hide_border=false" alt="Streak Stats"/>
+  <br/>
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
+
 
 <br/>
 
