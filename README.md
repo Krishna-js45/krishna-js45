@@ -129,7 +129,7 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-js45&theme=dark&hide_border=false" alt="Streak Stats"/>
+![](https://nirzak-streak-stats.vercel.app/?user=krishna-js45&theme=dark&hide_border=false)<br/>
 </div>
 
 <br/>
