@@ -128,11 +128,10 @@
 <br/>
 
 
-<div align="center">
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=krishna-js45&theme=dark&hide_border=false)
-</div>
----
+
 
 
 <br/>
