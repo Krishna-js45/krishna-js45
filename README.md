@@ -115,32 +115,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div><br>
 
-<!-- GitHub Contributor Stats -->
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=krishna-js45&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</div>
-<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-js45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-<br/>
-
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=krishna-js45&theme=dark&hide_border=false)
-
-</div>
-
-<br/>
-
-<!-- GitHub Overall Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br/>
 
 
