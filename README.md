@@ -115,7 +115,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div><br>
 <div align="center">
-📊 GitHub Stats:
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=neon&hide_border=false)<br><br>
