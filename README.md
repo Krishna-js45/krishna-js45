@@ -2,11 +2,11 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/vikram-singh9/vikram-singh9"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/vikram-singh9"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/vikram-singh9/PORTFOLIO"><img src="https://img.shields.io/github/stars/vikram-singh9/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/vikram-singh9"><img src="https://img.shields.io/github/forks/vikram-singh9/BEPb.svg?color=blue&logo=github"></a>
+    <a href=""><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href=""><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href=""><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href=""><img src="https://img.shields.io/github/stars/vikram-singh9/BEPb.svg?logo=github"></a>
+    <a href=""><img src="https://img.shields.io/github/forks/vikram-singh9/BEPb.svg?color=blue&logo=github"></a>
     
 </p>
 
