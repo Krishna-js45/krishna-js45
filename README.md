@@ -125,20 +125,7 @@
 <br/>
 
 
-                                                                                                                                                                                                                                                                                                                      
-
-| I’m currently working on AI Agents
-
-| I’m currently learning **Agentic AI / Python / Streamlit / Chainlit**
-
-| Follow me on Linkedin [https://www.linkedin.com/in/raj-krishna-rnd/](https://www.linkedin.com/in/raj-krishna-rnd/)
-
-| Ask me about **react / nextJS / TypeScript /JavaScript / Python / AI**
-
-| How to reach me **rajkrishna1445@gmail.com**
-
-| Know about my experiences [https://krishna-js45.github.io/Cv/](https://krishna-js45.github.io/Cv/)
-                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                               
 ![](assets/Bottom_down.svg)
 
 
