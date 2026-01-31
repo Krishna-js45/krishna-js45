@@ -41,15 +41,6 @@
 
 </h4>  
  
-
-
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rajkrishna;&center=true&width=500&height=45&color=FF0000&vCenter=true&size=22" />
 </p>
