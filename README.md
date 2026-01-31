@@ -4,6 +4,16 @@
 <p align="center">
     
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rajkrishna;&center=true&width=500&height=45&color=FF0000&vCenter=true&size=22" />
+</p>
+
+
+<h1 align="center">🌟 Fellas! </h1><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" />
+</p><br>
+
 
 <!--   my-header-img -->
 ![](./src/header_.png)
@@ -14,42 +24,8 @@
   </br>
     </br>
     
-  <h4 align="center">
   
-          
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rajkrishna;&center=true&width=500&height=45&color=FF0000&vCenter=true&size=22" />
-</p>
-
-
-<h1 align="center">🌟 Fellas! </h1><br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" />
-</p><br>
 
 
 
@@ -151,7 +127,36 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
+
+
 <br/>
+
+<h4 align="center">
+  
+          
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>  
 
 
 MOST USED
