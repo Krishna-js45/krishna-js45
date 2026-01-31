@@ -2,11 +2,6 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href=""><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href=""><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href=""><img src="https://img.shields.io/github/stars/vikram-singh9/BEPb.svg?logo=github"></a>
-    <a href=""><img src="https://img.shields.io/github/forks/vikram-singh9/BEPb.svg?color=blue&logo=github"></a>
     
 </p>
 
@@ -44,12 +39,14 @@
 ```
 
 </h4>  
+ 
+<div align="center">
     </br>
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 
-  </br>
+
+
 
 
 <p align="center">
@@ -145,11 +142,8 @@
   </a>
 </div><br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishna-js45&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div><br>
-<div align="center">
-
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+  </br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=neon&hide_border=false)<br><br>
@@ -158,6 +152,13 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 <br/>
+
+
+FAV TOOLS
+<br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6M2NrNGJ5MDR3aWFybmplNWR2NXNxZm1iMm1hdzJmeXBwdGh5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6M2NrNGJ5MDR3aWFybmplNWR2NXNxZm1iMm1hdzJmeXBwdGh5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXN2cDUzaGFueHBwZzBnZjFhc2txOXdndWxtNGQ0bzg2aXdqYWx3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UWt0rhp21JgLwoeFQP/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDh6OThiM3hzcHFsbDk3bWE5bncyZmxoMjFiNHJwaGd4cGFzb3AxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DEdhZ8f43vvK8WE6jI/giphy.gif" width="50"/>  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHlpNTZ4dmdvNmdpdjRjMjJtcXMzbXByZTZlcWRnaXY2d212OHMxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j5JrszvI2o0ZgCoBI1/giphy.gif" width="50"/>  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2FrOTVrMHZmc2dxNXlnMzV4OWp6ZW4zcW1kenc2aHlyNW1ncmd3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llarwdtFqG63IlqUR1/giphy.gif" height="50" width="50"/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHEyOWVpcW1mNmNibHg2cDdxbGoxOXltcThqMmxxejF5Z2tqczg5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/> 
+
 
 
                                                                                                                                                                                                                                                                                                                                                                                                
