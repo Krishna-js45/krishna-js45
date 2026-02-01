@@ -1,7 +1,4 @@
-<!--   my-header-img -->
-<p align="center">
-  <img src="assets/12344.gif" width="100%" height="300" />
-</p>
+
 <!--   my-icons -->
 <p align="center">
     
