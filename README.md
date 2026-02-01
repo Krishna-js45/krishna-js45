@@ -1,5 +1,7 @@
-![](assets/Bottom_up.svg)
-
+<!--   my-header-img -->
+<p align="center">
+  <img src="assets/12344.gif" width="100%" height="300" />
+</p>
 <!--   my-icons -->
 <p align="center">
     
@@ -15,8 +17,8 @@
 </p><br>
 
 
-<!--   my-header-img -->
-![](./assets/header.jpg)
+
+
 
 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
