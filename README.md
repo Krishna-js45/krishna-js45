@@ -13,6 +13,19 @@
   <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" />
 </p><br>
 <br>
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-js45&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-js45&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishna-js45&theme=github_dark&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishna-js45&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishna-js45&theme=github_dark)
+
+
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna-js45&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/krishna-js45/github-readme-activity-graph)
+
+</div>
 
 <br>
 
@@ -66,6 +79,7 @@ MOST USED
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   
+
 
 
 
