@@ -20,6 +20,8 @@
  [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 <br>
 
+<img src="https://images.cooltext.com/5751028.png" />
+
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 
@@ -28,8 +30,8 @@
 
 
 <br>
-Snake eating my Contributions
-<br>   
+<img src="https://images.cooltext.com/5751027.png" />
+ 
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
   </br>
