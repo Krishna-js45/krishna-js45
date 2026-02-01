@@ -1,3 +1,5 @@
+![](assets/Bottom_up.svg)
+
 
 <!--   my-icons -->
 <p align="center">
@@ -12,14 +14,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" />
 </p><br>
-
-
-
-
-
-
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
 
 
   </br>
