@@ -51,7 +51,8 @@
 <h1 align="center">
     
 ![](https://github-readme-stats.vercel.app/api?username=Krishna-js45&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br><br>
-![](https://nirzak-streak-stats.vercel.app/?user=Krishna-js45&theme=neon&hide_border=false)<br><br>
+![](https://nirzak-streak-stats.vercel.app/?user=krishna-js45&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&hide_border=true)
+<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-js45&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </h1>
