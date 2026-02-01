@@ -70,10 +70,6 @@
 <div align="center">
   <img width="50" height="50" src="https://github.com/user-attachments/assets/20988e26-feb5-4806-839d-6c29fa0603cf" />
   <img width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6M2NrNGJ5MDR3aWFybmplNWR2NXNxZm1iMm1hdzJmeXBwdGh5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" />
-  <img width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6M2NrNGJ5MDR3aWFybmplNWR2NXNxZm1iMm1hdzJmeXBwdGh5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" />
-  <img width="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXN2cDUzaGFueHBwZzBnZjFhc2txOXdndWxtNGQ0bzg2aXdqYWx3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UWt0rhp21JgLwoeFQP/giphy.gif" />
-  <img width="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDh6OThiM3hzcHFsbDk3bWE5bncyZmxoMjFiNHJwaGd4cGFzb3AxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DEdhZ8f43vvK8WE6jI/giphy.gif" />
-  <img width="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHlpNTZ4dmdvNmdpdjRjMjJtcXMzbXByZTZlcWRnaXY2d212OHMxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j5JrszvI2o0ZgCoBI1/giphy.gif" />
   <img width="50" height="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2FrOTVrMHZmc2dxNXlnMzV4OWp6ZW4zcW1kenc2aHlyNW1ncmd3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llarwdtFqG63IlqUR1/giphy.gif" />
   <img width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHEyOWVpcW1mNmNibHg2cDdxbGoxOXltcThqMmxxejF5Z2tqczg5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" />
   <img width="50" height="50" src="https://github.com/user-attachments/assets/5eaf832c-dd28-49c2-850b-117c7acda3a7" />
@@ -86,6 +82,28 @@
 
 <br>
 <br>
+<img src="https://images.cooltext.com/5751035.png" />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/raj-krishna-rnd/" target="_blank">
+    <img width="50" src="https://img.icons8.com/ios/250/000000/linkedin.png" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://in.pinterest.com/" target="_blank">
+    <img width="50" src="https://img.icons8.com/ios/250/000000/pinterest.png" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.reddit.com/user/Worldly_Specialist92/" target="_blank">
+    <img width="50" src="https://img.icons8.com/ios/250/000000/reddit.png" />
+  </a>&nbsp;&nbsp;
+
+  <a href="rajkrishna1445@gmail.com" target="_blank">
+    <img width="50" src="https://img.icons8.com/ios/250/000000/google-logo.png" />
+  </a>
+</div>
+
+
+
 <br>
 <br>
   <a href="mailto:rajkrishna1445@gmail.com" target="_blank">
