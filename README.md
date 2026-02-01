@@ -6,11 +6,9 @@
     
 </p>
 <p align="center">
-  <img src="https://images.cooltext.com/5750993.png" />
+  <img src="https://images.cooltext.com/5751006.png" />
 </p>
-
-
-<P align="center"><img src= "https://images.cooltext.com/5750995.png" /> </P><br>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" />
 </p><br>
