@@ -5,11 +5,11 @@
     
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rajkrishna;&center=true&width=500&height=45&color=FF0000&vCenter=true&size=22" />
+  <img src="https://images.cooltext.com/5750993.png" />
 </p>
 
 
-<h1 align="center">🌟 Fellas! </h1><br>
+<P align="center"><img src= "https://images.cooltext.com/5750995.png" /> </P><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishna-js45&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-js45" />
 </p><br>
